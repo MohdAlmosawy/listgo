@@ -1629,6 +1629,7 @@ a.bg-danger:focus, a.bg-danger:hover, button.bg-danger:focus, button.bg-danger:h
 }
 
 .page-wrapper {
+  min-height: 334px;
   left: 0;
   position: relative;
   transition: all 0.2s ease-in-out;
